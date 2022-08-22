@@ -1,0 +1,59 @@
+body{
+    background-color:darkslategrey;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+     font-family: 'Macondo', cursive;
+     text-shadow: 2px 2px 10px whitesmoke;
+}
+
+header{
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+}
+h4{
+    color: aliceblue;
+    margin: auto;
+    text-align: center;
+}
+div{
+    color: aliceblue;
+    margin-top: 50px;
+}
+section{
+    display: flex;
+    justify-content: center;
+    
+
+}
+input{
+    margin-top: 20px;
+}
+button{
+    margin-top: 10px;
+    margin-left: 80%;
+    margin-right: 10%;
+    font-family:  'Koulen', cursive;
+}
+.displayBox{
+    margin: 5px;
+}
+.in{
+    margin: 5px;
+  
+}
+.in2{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.ans{
+    margin: 0px;
+}
+h4{
+    font-size: medium;
+}
+h1{
+    font-size: larger;
+}
+#b{font-family: 'Koulen', cursive;}
